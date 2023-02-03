@@ -13,7 +13,7 @@
 
 
 
-![STEM](.\res\STEM.jpg)
+![STEM](./res/STEM.jpg)
 
 
 ### I will be AR SWE officer
@@ -21,7 +21,7 @@
 - **SWE** - **S**oft**W**are **E**ngineering
 - **AR** - **A**ir **F**orce
 
-![Robo Dog Air Force](.\res\Air-Force-robot-dog.jpg)
+![Robo Dog Air Force](./res/Air-Force-robot-dog.jpg)
 
 ## Shwarznieger03
 
